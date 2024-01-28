@@ -26,6 +26,6 @@
 
 
 
-## Dashboard
+## Dashboard Screenshot
 
 ![App Screenshot](https://github.com/Mathur998/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/blob/main/DahsboradScreenshot.png?raw=true)
